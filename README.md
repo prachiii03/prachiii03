@@ -53,11 +53,9 @@ Responsive clothing website with enquiry system and modern UI.
 
 ### 📈 GitHub Stats  
 
-### 📈 GitHub Stats  
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachiii03&show_icons=true&theme=default&hide_border=true)
 
-![Prachi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prachiii03&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prachiii03&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachiii03&layout=compact&hide_border=true)
 
 ---
 
